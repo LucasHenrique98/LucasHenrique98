@@ -3,7 +3,7 @@
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
 ### Welcome to my GitHub
-<p>I'm Lucas Henrique, Fullstack student from Brazil <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /></p>
+<p>I'm Lucas Henrique, Fullstack developer from Brazil <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /></p>
 
 ### Personal Stuff:
 
@@ -11,7 +11,7 @@
 
 - I'm currently studying JavaScript Stack (React and Node.js);
 
-- I'm looking for the first opportunity in the development area
+- Front-end and mobile developer at ImóvelGuide.
 
 
 ### My Development Stacks
