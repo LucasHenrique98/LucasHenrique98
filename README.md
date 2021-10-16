@@ -11,7 +11,7 @@
 
 - I'm currently studying JavaScript Stack (React and Node.js);
 
-- Front-end and mobile developer at ImóvelGuide.
+- Front-end developer at nstech.
 
 
 ### My Development Stacks
