@@ -11,7 +11,7 @@
 
 - I'm currently studying JavaScript Stack (React and Node.js);
 
-- Front-end developer at nstech.
+- Front-end developer at Tupinambá.
 
 
 ### My Development Stacks
